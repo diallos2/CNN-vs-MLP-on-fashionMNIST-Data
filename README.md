@@ -54,9 +54,6 @@ The CNN model demonstrates significantly better performance, which is attributed
 
 ## Comparison of MLP and CNN
 
-Model  Validation Accuracy  Test Accuracy
-MLP	79.60%	83.59%
-CNN	83.11%	85.62%
 The CNN model clearly outperformed the MLP, reaffirming its suitability for image classification tasks due to its inherent ability to process and extract features from structured image data.
 
 ## Tools and Libraries
