@@ -1,4 +1,4 @@
-#FashionMNIST Image Classification with MLP and CNN
+# FashionMNIST Image Classification with MLP and CNN
 
 This project explores and compares the performance of two distinct neural network architectures; Multi-Layer Perceptron (MLP) and Convolutional Neural Network (CNN) for image classification on the FashionMNIST dataset.
 
